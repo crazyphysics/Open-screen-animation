@@ -4,6 +4,6 @@
 
 ## 运行截图：<br>
 主页：<br>
-<img src="https://github.com/crazyphysics/Open-screen-animation/blob/main/images/1.png" width="400" height="300" />  <br>
+<img src="https://github.com/crazyphysics/Open-screen-animation/blob/main/images/1.png" width="450" height="600" />  <br>
 点击微信图标： <br>
 ![2](https://github.com/crazyphysics/Open-screen-animation/blob/main/images/2.png)  <br>
